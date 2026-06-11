@@ -7,7 +7,7 @@ A polished, browser-based word guessing game with five word categories, persiste
 ## Files
 
 ```
-hangman/
+Word Guessing game/
 ├── index.html   — page structure and SVG gallows
 ├── style.css    — dark theme, animations, responsive layout
 ├── game.js      — all game logic, word bank, state management
